@@ -3,7 +3,8 @@ I'm **[`Sruthimol Sunil`]**, An experienced and results-driven Microsoft Dynamic
  operational efficiency for organizations and database management, and query optimization. Possessing strong programming skills in Python, Java, and C++, adept at
  translating business needs into technical solutions and building collaborative client relationships to ensure successful software implementation and performance.
 
-<a href="[linkedin.com/in/sruthimol-sunil-159b3b188](https://www.linkedin.com/in/sruthimol-sunil-159b3b188/?trk=opento_sprofile_topcard)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[linkedin.com/in/sruthimol-sunil-159b3b188]">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
