@@ -73,7 +73,7 @@ I'm **[`Sruthimol Sunil`]**, An experienced and results-driven Microsoft Dynamic
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Credit card fraud detection](Sruthisunil-123/CREDIT-CARD-FRAUD-DETECTION)**    | Short Description |
+| **[Credit card fraud detection](CREDIT-CARD-FRAUD-DETECTION)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
